@@ -75,9 +75,9 @@ graph TD
 
 <div align="center">
 
-![Alvini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alvn-Zilverstand&show_icons=true&theme=radical)
+![Alvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alvin-Zilverstand&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvn-Zilverstand&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvin-Zilverstand&layout=compact&theme=radical)
 
 </div>
 
