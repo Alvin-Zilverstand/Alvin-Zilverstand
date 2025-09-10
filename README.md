@@ -113,10 +113,10 @@ graph TD
   ║           FUN FACTS ABOUT ME         ║
   ╠══════════════════════════════════════╣
   ║ 🎮 I prefer virtual cities over      ║
-  ║    real ones (no traffic jams!)      ║
+  ║    real ones (no traffic jams!)       ║
   ║ 👨‍🍳 I cook both food and code         ║
   ║ 🔧 I tinker with everything tech     ║
-  ║ 🇳🇱 Living in the Netherlands         ║
+  ║ 🇳🇱 Living in the Netherlands          ║
   ║ 💻 Passionate about all things tech  ║
   ╚══════════════════════════════════════╝
 ```
