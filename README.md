@@ -26,6 +26,12 @@ I'm a passionate software development student from the Netherlands who loves div
 
 ---
 
+<p align="center">
+  <a href="https://github.com/Alvin-Zilverstand">
+    <img src="https://github-profile-trophy.vercel.app/?username=Alvin-Zilverstand&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" alt="trophy"/>
+  </a>
+</p>
+
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -39,11 +45,6 @@ I'm a passionate software development student from the Netherlands who loves div
 
 </div>
 
-<p align="center">
-  <a href="https://github.com/Alvin-Zilverstand">
-    <img src="https://github-profile-trophy.vercel.app/?username=Alvin-Zilverstand&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" alt="trophy"/>
-  </a>
-</p>
 ---
 
 ## 🎯 Current Projects
