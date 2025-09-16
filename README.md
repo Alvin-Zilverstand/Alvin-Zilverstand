@@ -84,11 +84,6 @@ graph TD
 ![Alvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alvin-Zilverstand&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvin-Zilverstand&layout=compact&theme=radical)
 
-<a href="https://github.com/Alvin-Zilverstand">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alvin-Zilverstand&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" alt="trophy"/>
-</a>
-
-![Snake animation](https://github.com/Alvin-Zilverstand/Alvin-Zilverstand/blob/output/snake.svg)
 ![Isometric commit calendar](https://github.com/Alvin-Zilverstand/Alvin-Zilverstand/blob/main/github-metrics.svg)
 
 </div>
@@ -103,6 +98,14 @@ graph TD
 [![Website](https://img.shields.io/badge/Website-alvin--zilverstand.nl-4ECDC4?style=for-the-badge&logo=globe&logoColor=white)](https://alvin-zilverstand.nl)
 [![TikTok](https://img.shields.io/badge/TikTok-@alvinzilverstand-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@alvinzilverstand)
 
+</div>
+
+---
+
+<div align="center">
+<a href="https://github.com/Alvin-Zilverstand">
+  <img src="https://github-profile-trophy.vercel.app/?username=Alvin-Zilverstand&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" alt="trophy"/>
+</a>
 </div>
 
 ---
