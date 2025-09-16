@@ -131,3 +131,9 @@ graph TD
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Alvini&color=brightgreen&style=for-the-badge)
+
+</div>
