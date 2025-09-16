@@ -29,6 +29,7 @@ I'm a passionate software development student from the Netherlands who loves div
 
 ![Snake animation](https://github.com/Alvin-Zilverstand/Alvin-Zilverstand/blob/output/snake.svg)
 </div>
+
 ---
 
 ## 🛠️ Tech Stack & Tools
