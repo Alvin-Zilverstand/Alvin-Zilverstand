@@ -84,7 +84,6 @@ graph TD
 
 ![Snake animation](https://github.com/Alvin-Zilverstand/Alvin-Zilverstand/blob/output/snake.svg)
 ![Isometric commit calendar](https://github.com/Alvin-Zilverstand/Alvin-Zilverstand/blob/main/github-metrics.svg)
-![Metrics](https://github.com/Alvin-Zilverstand/Alvin-Zilverstand/blob/main/github-metrics.base.svg)
 
 </div>
 
