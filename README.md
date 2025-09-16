@@ -145,6 +145,6 @@ graph TD
 
 ### Thanks for visiting! 👋
 
-*"In a world full of bugs, be the debugger!"* 🐛➡️✨
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div> 
