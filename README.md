@@ -26,12 +26,6 @@ I'm a passionate software development student from the Netherlands who loves div
 
 ---
 
-<p align="center">
-  <a href="https://github.com/Alvin-Zilverstand">
-    <img src="https://github-profile-trophy.vercel.app/?username=Alvin-Zilverstand&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" alt="trophy"/>
-  </a>
-</p>
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -77,13 +71,21 @@ graph TD
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Contributions
 
 <div align="center">
 
 ![Alvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alvin-Zilverstand&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvin-Zilverstand&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=Alvini&color=brightgreen&style=for-the-badge)
+
+<a href="https://github.com/Alvin-Zilverstand">
+  <img src="https://github-profile-trophy.vercel.app/?username=Alvin-Zilverstand&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" alt="trophy"/>
+</a>
+
+![Snake animation](https://github.com/Alvin-Zilverstand/Alvin-Zilverstand/blob/output/snake.svg)
+![Isometric commit calendar](https://github.com/Alvin-Zilverstand/Alvin-Zilverstand/blob/main/github-metrics.svg)
+![Metrics](https://github.com/Alvin-Zilverstand/Alvin-Zilverstand/blob/main/github-metrics.base.svg)
 
 </div>
 
@@ -98,15 +100,6 @@ graph TD
 [![TikTok](https://img.shields.io/badge/TikTok-@alvinzilverstand-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@alvinzilverstand)
 
 </div>
-
----
-
-## 🎯 What I'm Working On
-
-- 🔨 **Useful Projects**: Building tools and applications that actually make my life easier
-- 📚 **Learning**: Exploring new technologies and frameworks
-- 🎮 **Gaming**: When I'm not coding, I'm probably managing a virtual empire
-- 👨‍🍳 **Cooking**: Both real food and code recipes!
 
 ---
 
@@ -131,20 +124,10 @@ graph TD
 
 ---
 
-## 🚀 Quick Stats
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Alvini&color=brightgreen&style=for-the-badge)
-
-</div>
-
----
-
 <div align="center">
 
 ### Thanks for visiting! 👋
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-</div> 
+</div>
