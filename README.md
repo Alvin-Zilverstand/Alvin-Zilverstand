@@ -25,6 +25,9 @@ I'm a passionate software development student from the Netherlands who loves div
 - 💻 Working on projects that are actually useful to me
 
 ---
+
+## Snek
+
 <div align="center">
 
 ![Snake animation](https://github.com/Alvin-Zilverstand/Alvin-Zilverstand/blob/output/snake.svg)
