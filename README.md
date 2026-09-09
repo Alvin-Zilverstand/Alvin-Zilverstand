@@ -98,7 +98,7 @@ graph TD
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-www.alvnx.xyz-FF6B6B?style=for-the-badge&logo=globe&logoColor=white)](https://www.alvnx.xyz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-alvnx.xyz-FF6B6B?style=for-the-badge&logo=globe&logoColor=white)](https://alvnx.xyz)
 [![Website](https://img.shields.io/badge/Website-alvin--zilverstand.nl-4ECDC4?style=for-the-badge&logo=globe&logoColor=white)](https://alvin-zilverstand.nl)
 [![TikTok](https://img.shields.io/badge/TikTok-@alvinzilverstand-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@alvinzilverstand)
 
