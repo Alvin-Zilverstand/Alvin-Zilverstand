@@ -2,7 +2,8 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # Runs daily at midnight
+    - cron: "0 12 * * *"       # Daily at 12:00 Amsterdam time
+      timezone: "Europe/Amsterdam"
   workflow_dispatch:
 
 jobs:

@@ -2,7 +2,8 @@ name: Generate GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # Runs every 12 hours
+    - cron: "0 12 * * *"       # Daily at 12:00 Amsterdam time
+      timezone: "Europe/Amsterdam"
   workflow_dispatch:       # Allow manual runs
 
 jobs:
