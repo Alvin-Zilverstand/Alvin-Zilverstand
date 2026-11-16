@@ -84,27 +84,6 @@ I'm a passionate software development student from the Netherlands who loves div
 
 ---
 
-## 🎪 Fun Facts
-
-<div align="center">
-
-```ascii
-  ╔══════════════════════════════════════╗
-  ║           FUN FACTS ABOUT ME         ║
-  ╠══════════════════════════════════════╣
-  ║ 🎮 I prefer virtual cities over      ║
-  ║    real ones (no traffic jams!)       ║
-  ║ 👨‍🍳 I cook both food and code         ║
-  ║ 🔧 I tinker with everything tech     ║
-  ║ 🇳🇱 Living in the Netherlands          ║
-  ║ 💻 Passionate about all things tech  ║
-  ╚══════════════════════════════════════╝
-```
-
-</div>
-
----
-
 <div align="center">
 
 ### Thanks for visiting! 👋
