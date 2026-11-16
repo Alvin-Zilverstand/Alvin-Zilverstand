@@ -50,36 +50,6 @@ I'm a passionate software development student from the Netherlands who loves div
 
 ---
 
-## 🎯 Current Projects
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[Learning New Tech] --> B[Building Useful Projects]
-    B --> C[Gaming & Simulators]
-    C --> D[Cooking Experiments]
-    D --> E[Tinkering with Hardware]
-    E --> A
-```
-
-</div>
-
----
-
-## 🎮 Gaming Corner
-
-<div align="center">
-
-### My Favorite Game Genres:
-🏗️ **City Builders** | 🏢 **Tycoons** | 🎮 **Simulators**
-
-*"Why build real cities when you can build virtual ones without permits?"* 😄
-
-</div>
-
----
-
 ## 📊 GitHub Stats & Contributions
 
 <div align="center">
