@@ -84,8 +84,6 @@ graph TD
 
 <div align="center">
 
-![Alvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alvin-Zilverstand&show_icons=true&theme=radical)
-
 ![Isometric commit calendar](./github-metrics.svg)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvin-Zilverstand&layout=compact&theme=radical)
